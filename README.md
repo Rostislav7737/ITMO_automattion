@@ -1,2 +1,2 @@
-# ITMO_automattion
+# ITMO_automation
 Обучение тестировщик ПО
