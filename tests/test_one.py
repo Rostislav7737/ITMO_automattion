@@ -12,6 +12,7 @@ def test_not():
     assert not a == b
 
 
+
 def test_list():
     x = ['a', 'b', 'c']
     y = ['1', '2', '3']
